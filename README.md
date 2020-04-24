@@ -6,5 +6,5 @@ Keeping track of bowling scores in ruby.
 
 ```
 bundle install
-ruby bowling_test.rb
+ruby lib/bowling_test.rb
 ```
