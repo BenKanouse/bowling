@@ -4,4 +4,4 @@ rvm:
   - 2.7.1
 
 script:
-  - ruby lib/bowling_test.rb
+  - bundle exec ruby lib/bowling_test.rb
